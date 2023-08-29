@@ -9,7 +9,7 @@ Eu Me chamo Vinicius, sou um programador front end,tenho um aprendizado que cons
 <br>
 formas de entrar em contato:
 
-<a href="https://www.instagram.com/viniiiciussamico/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/j.v.vinicius/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   
   [![vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-samico)](https://github.com/anuraghazra/github-readme-stats)
 
