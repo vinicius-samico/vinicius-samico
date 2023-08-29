@@ -14,3 +14,6 @@ formas de entrar em contato:
   [![vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-samico)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-samico)](https://github.com/anuraghazra/github-readme-stats)
+
+
