@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu Me chamo Vinicius, sou um programador front end,tenho um aprendizado que considero rapido e sempre estou me  empenhando para resolver problemas,atualmente crio projetos com:
+Eu Me chamo Vinicius, sou um programador front end,tenho um aprendizado rapido sou comunicativo e sempre estou me  empenhando para resolver problemas,atualmente crio projetos com:
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
