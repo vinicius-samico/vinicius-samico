@@ -12,8 +12,11 @@ Eu Me chamo Vinicius, sou um programador front end/full-Stack,tenho um aprendiza
 formas de entrar em contato:
 
 <a href="https://www.instagram.com/j.v.vinicius/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="www.linkedin.com/in/vinicius-samico"><img src="![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-"/>
+
+<a href="https://www.linkedin.com/in/vinicius-samico" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   
   [![vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-samico)](https://github.com/anuraghazra/github-readme-stats)
 
